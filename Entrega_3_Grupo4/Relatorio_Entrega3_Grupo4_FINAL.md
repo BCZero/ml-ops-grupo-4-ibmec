@@ -2,7 +2,8 @@
 
 Disciplina: MLOps & CI/CD  
 Atividade: Entrega 3 - Em Grupo - 15 pontos  
-Grupo: Grupo 4  
+Grupo: Grupo 4
+Integrantes: Bruno Cesar Sampaio Ribeiro de Assis, Daniel Barrozo Lima, Micael Trindade, Pedro Henrique Casimiro, Pedro Guilherme Feitoza Melo
 Repositorio GitHub principal: https://github.com/BCZero/ml-ops-grupo-4-ibmec
 
 ## 1. Projeto
